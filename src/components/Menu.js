@@ -1,11 +1,20 @@
-import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
 const Menu = () => {
   return (
     <div className="menu">
-      <FontAwesomeIcon icon={["fal", "coffee"]} />
-      Your <FontAwesomeIcon icon="coffee" /> is hot and ready!
+      <span className="insta">Instagram</span>
+
+      <input className="input" type="text" placeholder=" search" />
+      <div className="icons">
+        <span> </span>
+
+        <span> </span>
+
+        <span> </span>
+
+        <span></span>
+
+        <span className="profilPhoto"></span>
+      </div>
     </div>
   );
 };
