@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/test.jpg"
+  }
+]

@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: bisque;
+}
+.gallery {
+  width: 90vw;
+  height: 70vh;
+  border: 2px black solid;
+  margin: 1rem;
+}
+.header {
+  width: 90vw;
+  height: 20vh;
+  border: 2px black solid;
+  margin: 1rem;
+}
+.menu {
+  width: 90vw;
+  height: 10vh;
+  border: 2px black solid;
+  margin: 1rem;
+}
+.GalaryFoto {
+  display: inline-table;
+  width: 23%;
+  height: 30%;
+  padding: 5px;
+  border: 2px red dashed;
+}
