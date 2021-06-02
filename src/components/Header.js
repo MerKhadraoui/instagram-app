@@ -7,8 +7,11 @@ const Header = () => {
         </div>
         <div className="follow">
           <span>
-            <h1>natgeo</h1> <button type="submit" value="Follow " />
-            <h1>...</h1>
+            <h1>natgeo</h1>{" "}
+            <button className="button-follow " type="submit">
+              Follow
+            </button>
+            <h1> ...</h1>
           </span>
           <span>
             {" "}
@@ -16,12 +19,16 @@ const Header = () => {
             <h3>131 following </h3>{" "}
           </span>
           <span>
-            <h3>National Geographic</h3>{" "}
-            <h4>
-              Experience the world through the eyes of National Geographic
-              photographers.
-            </h4>
-            <a href="https://nationalgeographic.like2buy.curalate.com/c/gallery/like2buy?id=71xx76mM&l=like2buy" />
+            <h2>National Geographic</h2>
+          </span>
+          <span className="text">
+            <span>
+              <h4>
+                Experience the world through the eyes of National Geographic
+                photographers.
+              </h4>
+            </span>
+            {/* <a href="https://nationalgeographic.like2buy.curalate.com/c/gallery/like2buy?id=71xx76mM&l=like2buy" /> */}
           </span>
         </div>
       </div>
