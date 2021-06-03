@@ -33,9 +33,11 @@ const Header = () => {
         </div>
       </div>
       <div className="content-two">
+        <span> </span> <h3>Parks AR</h3>
         <span></span>
+        <h3>Arctic life</h3>
         <span></span>
-        <span></span>
+        <h3>Covide sh...</h3>
       </div>
     </div>
   );

@@ -115,9 +115,20 @@ span {
   width: 4rem;
   height: 4rem;
 }
-.content-two span {
-  display: inline-table;
-  width: 4rem;
-  height: 4rem;
-  border: 2px red dashed;
+.content-two {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 1rem;
+  span {
+    display: block;
+    width: 4rem;
+    height: 4rem;
+    border: 2px gray solid;
+    border-radius: 100%;
+    padding: 3px;
+  }
+  h3 {
+    padding: 1rem;
+  }
 }
