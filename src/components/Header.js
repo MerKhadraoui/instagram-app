@@ -1,4 +1,13 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faListAlt } from "@fortawesome/free-solid-svg-icons";
+import { faFileVideo } from "@fortawesome/free-solid-svg-icons";
+import { faTv } from "@fortawesome/free-solid-svg-icons";
+import { faIdBadge } from "@fortawesome/free-solid-svg-icons";
 const Header = () => {
+  const list = <FontAwesomeIcon icon={faListAlt} />;
+  const video = <FontAwesomeIcon icon={faFileVideo} />;
+  const tv = <FontAwesomeIcon icon={faTv} />;
+  const tagg = <FontAwesomeIcon icon={faIdBadge} />;
   return (
     <div className="header">
       <div className="content-one">
@@ -28,7 +37,6 @@ const Header = () => {
                 photographers.
               </h4>
             </span>
-            {/* <a href="https://nationalgeographic.like2buy.curalate.com/c/gallery/like2buy?id=71xx76mM&l=like2buy" /> */}
           </span>
         </div>
       </div>
@@ -38,6 +46,24 @@ const Header = () => {
         <h3>Arctic life</h3>
         <span></span>
         <h3>Covide sh...</h3>
+      </div>
+      <div className="gallery-menu">
+        <span>
+          {list}
+          <a href="https://example.com">POSTS</a>
+        </span>
+        <span>
+          {video}
+          <a href="https://example.com">REELS</a>
+        </span>
+        <span>
+          {tv}
+          <a href="https://example.com">IGTV</a>
+        </span>
+        <span>
+          {tagg}
+          <a href="https://example.com">TAGGED</a>
+        </span>
       </div>
     </div>
   );

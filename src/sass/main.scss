@@ -10,7 +10,7 @@ body {
 .gallery {
   width: 70vw;
   height: 70vh;
-  border-top: 2px #e3e3e3 solid;
+
   margin: 1rem;
   padding: 2rem;
 }
@@ -112,15 +112,15 @@ span {
 }
 .GalaryFoto {
   display: inline-table;
-  width: 23%;
-  height: 30%;
+  width: 15rem;
+  height: 15rem;
   padding: 5px;
   border: 2px #575757 solid;
   margin: 3px;
 }
 .GalaryFoto .picture {
-  width: 90%;
-  height: 90%;
+  width: 14rem;
+  height: 14rem;
 }
 .content-two {
   display: flex;
@@ -137,5 +137,22 @@ span {
   }
   h3 {
     padding: 1rem;
+  }
+}
+.gallery-menu {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  flex-direction: row;
+  width: 70vw;
+  padding-top: 1.5rem;
+  border-top: 2px #e3e3e3 solid;
+  span {
+    margin-left: 1rem;
+  }
+  a {
+    color: black;
+    text-decoration: none;
+    margin-left: 0.5rem;
   }
 }
