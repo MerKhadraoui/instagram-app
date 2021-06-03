@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/instagram-app/static/css/main.7dad8c4e.chunk.css",
-    "main.js": "/instagram-app/static/js/main.8731c8b5.chunk.js",
-    "main.js.map": "/instagram-app/static/js/main.8731c8b5.chunk.js.map",
+    "main.css": "/instagram-app/static/css/main.5dda0024.chunk.css",
+    "main.js": "/instagram-app/static/js/main.275079f6.chunk.js",
+    "main.js.map": "/instagram-app/static/js/main.275079f6.chunk.js.map",
     "runtime-main.js": "/instagram-app/static/js/runtime-main.c4c73bc7.js",
     "runtime-main.js.map": "/instagram-app/static/js/runtime-main.c4c73bc7.js.map",
     "static/js/2.d0e82801.chunk.js": "/instagram-app/static/js/2.d0e82801.chunk.js",
     "static/js/2.d0e82801.chunk.js.map": "/instagram-app/static/js/2.d0e82801.chunk.js.map",
     "index.html": "/instagram-app/index.html",
-    "static/css/main.7dad8c4e.chunk.css.map": "/instagram-app/static/css/main.7dad8c4e.chunk.css.map",
+    "static/css/main.5dda0024.chunk.css.map": "/instagram-app/static/css/main.5dda0024.chunk.css.map",
     "static/js/2.d0e82801.chunk.js.LICENSE.txt": "/instagram-app/static/js/2.d0e82801.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c4c73bc7.js",
     "static/js/2.d0e82801.chunk.js",
-    "static/css/main.7dad8c4e.chunk.css",
-    "static/js/main.8731c8b5.chunk.js"
+    "static/css/main.5dda0024.chunk.css",
+    "static/js/main.275079f6.chunk.js"
   ]
 }
