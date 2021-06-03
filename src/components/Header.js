@@ -3,7 +3,7 @@ const Header = () => {
     <div className="header">
       <div className="content-one">
         <div className="imag">
-          <img src="" />
+          <img src="./img/profil.jpg" />
         </div>
         <div className="follow">
           <span>
@@ -32,7 +32,11 @@ const Header = () => {
           </span>
         </div>
       </div>
-      <div className="content-two"></div>
+      <div className="content-two">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
     </div>
   );
 };

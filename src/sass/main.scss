@@ -7,8 +7,6 @@ body {
   margin-left: 15vw;
   margin-right: 10vw;
 }
-* {
-}
 .gallery {
   width: 70vw;
   height: 70vh;
@@ -116,4 +114,10 @@ span {
 .picture {
   width: 4rem;
   height: 4rem;
+}
+.content-two span {
+  display: inline-table;
+  width: 4rem;
+  height: 4rem;
+  border: 2px red dashed;
 }
