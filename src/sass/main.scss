@@ -10,8 +10,9 @@ body {
 .gallery {
   width: 70vw;
   height: 70vh;
-  border: 2px black solid;
+  border-top: 2px #e3e3e3 solid;
   margin: 1rem;
+  padding: 2rem;
 }
 .header {
   width: 70vw;
@@ -22,7 +23,7 @@ body {
 .imag img {
   width: 8rem;
   height: 8rem;
-  border: 2px black solid;
+  border: 2px solid #e3e3e3;
   margin: 2rem;
   border-radius: 100%;
 }
@@ -67,8 +68,8 @@ span {
   justify-content: space-around;
   width: 70vw;
   height: 5vh;
-  border-bottom: 2px rgb(51, 50, 50) solid;
-  padding: 0.5rem;
+  border-bottom: 2px #e3e3e3 solid;
+  padding: 01rem;
   font-family: "Dancing Script", cursive;
   font-size: 1.2em;
 }
@@ -87,10 +88,15 @@ span {
   width: 30%;
 }
 .icons span {
-  width: 3rem;
-  height: 3rem;
-  border: black 2px solid;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  padding-top: 1rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: none;
   border-radius: 100%;
+  color: #575757;
 }
 .input {
   background-color: transparent;
@@ -109,11 +115,12 @@ span {
   width: 23%;
   height: 30%;
   padding: 5px;
-  border: 2px red dashed;
+  border: 2px #575757 solid;
+  margin: 3px;
 }
 .GalaryFoto .picture {
-  width: 4rem;
-  height: 4rem;
+  width: 90%;
+  height: 90%;
 }
 .content-two {
   display: flex;

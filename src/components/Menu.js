@@ -14,15 +14,16 @@ const Menu = () => {
 
       <input className="input" type="text" placeholder=" search" />
       <div className="icons">
-        <span>{compass} </span>
-
         <span>{home} </span>
 
         <span> {paperPlane}</span>
+        <span>{compass} </span>
 
         <span>{heart}</span>
 
-        <span className="profilPhoto"></span>
+        <span className="profilPhoto">
+          <img src="./img/miya.jpg" />
+        </span>
       </div>
     </div>
   );

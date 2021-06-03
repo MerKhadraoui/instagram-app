@@ -88,5 +88,14 @@
     "likes": 2345,
     "comments": 3444,
     "img": "./img/10.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Schlachtensee",
+    "location": "Berlin",
+    "text": "Enjoining my day",
+    "likes": 2345,
+    "comments": 3444,
+    "img": "./img/11.jpg"
   }
 ]
