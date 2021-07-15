@@ -14,7 +14,7 @@ https://merkhadraoui.github.io/instagram-app/
 ## Technologies:
 
 - `React`
-- `nod.js`
+- `npm`
 - `Scss`
 - `Javascript`
 - `json`
